@@ -1,0 +1,10 @@
+package com.readData;
+
+public class ReadData {
+
+	public void readExcelData() {
+		
+		
+	}
+	
+}

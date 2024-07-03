@@ -1,0 +1,23 @@
+package com.examples;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+public class Example_003_HandleCheckbox {
+
+	public static void main(String[] args) {
+
+		launchbrowser();
+		TakeScreenshotevidence();
+	}
+	
+	
+	WebDriver driver;
+	public void checkCheckbox() {
+		
+		driver.get("C:/Users/Admin/OneDrive/Desktop/Checkbox.html");
+		
+		driver.findElement(By.id("vehicle2"));
+		
+	}
+}

@@ -1,0 +1,17 @@
+package com.readData;
+
+import java.io.FileInputStream;
+
+public class ReadData {
+
+	public void readExcelData() {
+		
+		String path = "E:\\Naman\\ReadingDataFromExcel\\ExcelRead\\TestData.xls";
+		
+		FileInputStream fs = new FileInputStream(path);
+		
+		
+		
+	}
+	
+}
