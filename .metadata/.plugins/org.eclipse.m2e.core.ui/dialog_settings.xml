@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Naman\ReadingDataFromExcel\src\test\java\com\readData\ReadDataExcelSheetXSSF.java"/>
 			<item value="E:\Naman\SeleniumProjects\src\com\examples\Example_005_HandleRadioButton.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -44,11 +45,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="PageObjectModelPattern"/>
 			<item value="ReadingDataFromExcel"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="PageObjectModelPattern"/>
 			<item value="ReadingDataFromExcel"/>
 		</list>
 		<list key="projectNameTemplate">
