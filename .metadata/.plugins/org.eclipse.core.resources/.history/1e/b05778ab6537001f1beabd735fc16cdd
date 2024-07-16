@@ -1,9 +1,0 @@
-package com.runner;
-
-public class TestReadData {
-
-	public static void main(String[] args) {
-		
-	}
-
-}

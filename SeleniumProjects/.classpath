@@ -87,5 +87,6 @@
 	<classpathentry kind="lib" path="E:/Naman/selenium-java-4.21.0/selenium-safari-driver-4.21.0-sources.jar"/>
 	<classpathentry kind="lib" path="E:/Naman/selenium-java-4.21.0/selenium-support-4.21.0.jar"/>
 	<classpathentry kind="lib" path="E:/Naman/selenium-java-4.21.0/selenium-support-4.21.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
